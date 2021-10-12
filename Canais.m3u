@@ -2,7 +2,7 @@
 #EXTINF:0 group-title="canais multitalking"
 
 #EXTINF:-1 tvg-id="desporto" tvg-name="sport tv1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="aberto",Sport tv1
-https://qihefouiaeggveif.wzcdn594.net:8443/hls/1a5ml6rha7mnd.m3u8
+https://qihefouiaeggveif.wzcdn594.net:8443/hls/1a5ml6rha7mnd.m3u8?s=ebiSAkQOCp7afWy90DP5AQ&e=1634085277
 
 #EXTINF:-1 tvg-id="desporto" tvg-name="sport tv1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="aberto",Sport tv2
 https://srv05.varcdn1.ru/khlHD/tracks-v1a1/mono.m3u8
